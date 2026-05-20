@@ -50,8 +50,8 @@ Requests: Biblioteca para realizar requisições HTTP no lado do cliente.
         python main.py
    
 ## Integrantes e Contribuições
-Este projeto foi desenvolvido em dupla.\ 
-As contribuições individuais podem ser verificadas através do histórico de Pull Requests deste repositório, conforme solicitado no roteiro.\
+Este projeto foi desenvolvido em dupla\
+As contribuições individuais podem ser verificadas através do histórico de Pull Requests deste repositório, conforme solicitado no roteiro.
 
 ## Integrante 1:
 __Brendol Alves__ / [[GitHub](https://github.com/brendolalves)]
